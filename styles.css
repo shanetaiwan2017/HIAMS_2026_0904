@@ -168,7 +168,7 @@ button, input, select, textarea { font: inherit; }
   .wrap { width: calc(100% - 34px); }
   .section { padding: 76px 0; }
   .hero::after { background: linear-gradient(0deg, rgba(5,22,35,.96), rgba(7,31,49,.55)); }
-  .hero h1 { font-size: 2.62rem; }
+  .hero h1 { font-size: 2 rem; }
   .hero-image { object-position: 58% center; }
   .scroll-cue { display: none; }
   .question-photo { min-height: 118vw; }
